@@ -47,7 +47,6 @@ flowchart LR
 Uploading a file with `date`, `revenue`, `units_sold`, `product`, `region`
 columns (auto-detected from close matches) runs one pipeline per report.
 
-### In plain English
 
 Revenue is added up into one number per day, giving a timeline. Three
 different forecasting methods are then each shown *only* the older part of
